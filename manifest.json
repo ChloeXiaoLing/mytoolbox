@@ -1,0 +1,17 @@
+{
+  "name": "Toolbox 小工具集",
+  "short_name": "Toolbox",
+  "description": "集中放置日常小工具的 Dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F2EB",
+  "theme_color": "#2C2A1E",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
